@@ -1,0 +1,21 @@
+ctncloud.uitm.edu.my/warez
+Git-2.18.0-64-bit.exe
+
+
+ctncloud.uitm.edu.my
+Login: student1
+Password: student123
+
+
+
+
+git init
+git config
+git add
+git commit
+git remote
+git push
+git status
+git log
+
+
