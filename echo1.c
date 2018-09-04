@@ -9,6 +9,7 @@ int main()
 	printf("Name:eyma\nGroup:CS2454A\n\n");
 	printf("Name:AmiraHasfarisha\nGroup:CS2454A\n\n");
 	printf("Name:Afiq Yusof\nGroup:CS2454A\n\n");
+	printf("Name:Kheeirul\nGroup:CS2454A\n\n");
 	printf("Name:Amin Khariman\nGroup:CS2454B\n\n");
 	return 0;
 }
